@@ -2,7 +2,7 @@
 
 Este código está realizado para darle respuesta al reto lanzado por la empresa Kairos DS, para ello he usado el Visual Studio Code y JavaScrip como tecnología.
 
-El reto lanzado por ellos es el siguiente: 
+El reto lanzado por ellos es el siguiente:
 
 “Han sido descubiertos en Egipto los restos arqueológicos
 de la tumba del faraón Nekgikis V, que destacó por ser un
@@ -23,3 +23,5 @@ siguiente:
 de cada letra de la url.
 ¿Podrás averiguar cuál es la url secreta mediante código JavaScript y
 acceder a ella?"
+
+Realizado por Emma-cebada ©2021
